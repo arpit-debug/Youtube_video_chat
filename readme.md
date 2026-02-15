@@ -1,4 +1,5 @@
 # 🎥 YouTube RAG Chat (Streamlit + LangChain + Ollama)
+YouTube RAG Chat web app built with Streamlit. It fetches a video's transcript using YouTubeTranscriptApi.fetch() and splits it into chunks. A FAISS vector store with HuggingFace embeddings enables semantic retrieval from the transcript. Users can ask questions, and ChatOllama answers based only on the transcript context.
 
 An interactive Streamlit application that allows users to:
 
@@ -45,4 +46,4 @@ The video player remains visible while interacting with the chat interface.
 git clone <your-repo-url>
 cd <your-folder>
 
-![alt text](image.png)
+![Demo of the app](demo.png)
