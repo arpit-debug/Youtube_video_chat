@@ -13,6 +13,8 @@ The video player remains visible while interacting with the chat interface.
 
 ---
 
+![Demo of the app](demo.png)
+
 ## 🚀 Features
 
 - ✅ YouTube transcript extraction
@@ -46,4 +48,3 @@ The video player remains visible while interacting with the chat interface.
 git clone <your-repo-url>
 cd <your-folder>
 
-![Demo of the app](demo.png)
